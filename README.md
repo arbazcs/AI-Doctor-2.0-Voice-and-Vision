@@ -1,5 +1,4 @@
-<img src="C:\Users\Lenovo\Downloads\ai-doctor-img.jpg" alt="App Screenshot" width="400">
-
+![Project Screenshot](images/ai-doctor-img.jpg)
 
 
 # Project Setup Guide
@@ -155,4 +154,5 @@ python voice_of_the_doctor.py
 ```
 python gradio_app.py
 ```
+
 
