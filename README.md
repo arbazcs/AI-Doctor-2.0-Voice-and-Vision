@@ -1,7 +1,6 @@
-![Project Screenshot](images/ai-doctor-img.jpg)
-
-
 # Project Setup Guide
+
+![Project Screenshot](images/ai-doctor-img.jpg)
 
 This guide provides step-by-step instructions to set up your project environment, including the installation of FFmpeg and PortAudio across macOS, Linux, and Windows, as well as setting up a Python virtual environment using Pipenv, pip, or conda.
 
@@ -154,5 +153,6 @@ python voice_of_the_doctor.py
 ```
 python gradio_app.py
 ```
+
 
 
