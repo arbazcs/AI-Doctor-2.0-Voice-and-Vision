@@ -1,2 +1,7 @@
-# AI-Doctor-2.0-Voice-and-Vision
-AI-Doctor-2.0-Voice-and-Vision
+# ai-doctor-2.0-voice-and-vision
+ai-doctor-2.0-voice-and-vision
+<<<<<<< HEAD
+Your local changes
+=======
+Remote changes
+>>>>>>> main
